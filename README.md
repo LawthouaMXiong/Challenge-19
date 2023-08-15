@@ -36,5 +36,5 @@ WHEN I deploy to Heroku<br />
 THEN I should have proper build scripts for a webpack application<br />
 
 ## **Links to Portfolio**
-* GitHub Repository Link - https://github.com/LawthouaMXiong/Challenge-19
+* GitHub Repository Link - https://github.com/LawthouaMXiong/TextEditor
 * Deployed Link: https://young-tor-97238-f6dba0aed216.herokuapp.com/
